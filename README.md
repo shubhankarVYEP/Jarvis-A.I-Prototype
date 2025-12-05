@@ -57,10 +57,6 @@ Contributions are welcome! Please open issues and submit pull requests for bug f
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## License
-
-This project is licensed under the MIT License.
-
 ## Maintainer
 
 Developed by [shubhankarVYEP](https://github.com/shubhankarVYEP).
